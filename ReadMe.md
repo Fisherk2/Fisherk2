@@ -1,5 +1,6 @@
 # 💫 About Me:
-**Systems Administrator | 🗄️ Database Specialist | 📊 Data Analyst**  <br>🔧 Hands-on experience in Linux environments, SQL Server, and data-driven solutions  <br>🧠 Strong analytical mindset with a focus on system reliability and data integrity  <br>🛠️ Proficient in Java, Python, SQL, PHP, and infrastructure tools like Git and Docker  <br>📚 Self-driven learner with a practical approach to mastering new technologies  <br>📧 Open to opportunities in system administration, database management, and data analysis
+### **👨🏻‍💻 Systems Administrator | 🗄️ Database Specialist | 📊 Data Analyst**  
+<br>🔧 Hands-on experience in Linux environments, SQL Server, and data-driven solutions  <br>🧠 Strong analytical mindset with a focus on system reliability and data integrity  <br>🛠️ Proficient in Java, Python, SQL, PHP, and infrastructure tools like Git and Docker  <br>📚 Self-driven learner with a practical approach to mastering new technologies  <br>📧 Open to opportunities in system administration, database management, and data analysis
 
 
 ## 🌐 Socials:
